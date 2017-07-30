@@ -2,4 +2,5 @@
 python exercise from ICS110P
 
 ICS110P is python class held at UH Manoa on summer 2017, by Chalmer Lowe. 
-Here are my solutions and answers for the class exercises. 
+This repo includes the class exercise and the solutions. 
+Details about the class is available on data_analysis tutorials.
